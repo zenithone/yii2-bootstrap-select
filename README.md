@@ -3,13 +3,13 @@
 ##Install
 Either run
 ```
-php composer.phar require --prefer-dist brussens/yii2-bootstrap-select "*"
+php composer.phar require --prefer-dist zenithone/yii2-bootstrap-select "*"
 ```
 
 or add
 
 ```
-"brussens/yii2-bootstrap-select": "*"
+"zenithone/yii2-bootstrap-select": "*"
 ```
 
 to the require section of your `composer.json` file.
