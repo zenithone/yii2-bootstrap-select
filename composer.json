@@ -1,26 +1,26 @@
 {
-    "name": "brussens/yii2-bootstrap-select",
+    "name": "zenithone/yii2-bootstrap-select",
     "description": "Bootstrap select widget for Yii2",
-    "keywords": ["yii", "extension", "widget", "select"],
+    "keywords": ["yii", "extension", "widget", "select", "sumo select"],
     "type": "yii2-extension",
     "license": "MIT",
     "authors": [
         {
-            "name": "Brusenskiy Dmitry",
-            "email": "brussens@nativeweb.ru"
+            "name": "zenithone",
+            "email": ""
         }
     ],
     "support": {
-        "issues": "https://github.com/brussens/yii2-bootstrap-select/issues?state=open",
-        "source": "https://github.com/brussens/yii2-bootstrap-select"
+        "issues": "https://github.com/zenithone/yii2-bootstrap-select/issues?state=open",
+        "source": "https://github.com/zenithone/yii2-bootstrap-select"
     },
     "require": {
         "yiisoft/yii2": "*",
-        "bower-asset/bootstrap-select": "1.7.5"
+        "bower-asset/bootstrap-select": "1.11.*"
     },
     "autoload": {
         "psr-4": {
-            "brussens\\bootstrap\\select\\": ""
+            "zenithone\\bootstrap\\select\\": ""
         }
     }
 }
