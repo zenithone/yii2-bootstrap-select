@@ -20,7 +20,7 @@ to the require section of your `composer.json` file.
 
 ##Usage
 ```php
-use brussens\bootstrap\select\Widget as Select;
+use zenithone\bootstrap\select\Widget as Select;
 echo $form->field($model, 'subject')->widget(Select::className(), [
                             'options' => ['data-live-search' => 'true'],
                             'items' => [

@@ -5,13 +5,13 @@
  * @author Brusenskiy Dmitry <brussens@nativeweb.ru>
  * @since 1.0.0
  * @version 1.0.0
- * @link https://github.com/brussens/yii2-bootstrap-select <Repostory>
+ * @link https://github.com/zenithone/yii2-bootstrap-select <Repostory>
  * @copyright 2015 Brusenskiy Dmitry
  * @license http://opensource.org/licenses/MIT MIT
- * @package brussens\bootstrap\select
+ * @package zenithone\bootstrap\select
  */
 
-namespace brussens\bootstrap\select;
+namespace zenithone\bootstrap\select;
 
 use Yii;
 use yii\widgets\InputWidget;
